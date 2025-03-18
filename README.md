@@ -1,4 +1,4 @@
-# token_22541.aleo
+# token_22541.aleo workshop
 
 ## Build Guide
 
